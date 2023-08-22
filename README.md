@@ -1,2 +1,2 @@
 # SpotifyWrapped
-Giavonna and Zania's version of Spotify Wrapped
+Giavonna and Zaina's version of Spotify Wrapped
